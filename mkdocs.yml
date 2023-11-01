@@ -34,9 +34,10 @@ theme:
 
 nav:
   - index.md
-  - شازززگاید: https://guide.shaazzz.ir/
-  - کتاب گراف: https://gtoi.shaazzz.ir/
-  - last-years.md
+  - داکیومنت:
+      Installation and Requirements: installation.md
+      User Manual: manual.md
+  - بورد: board.md
   - المنت: https://vrucs.github.io/element-web/
 
 extra_css:
