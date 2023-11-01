@@ -1,7 +1,7 @@
-site_name: شاززز
-site_url: https://shaazzz.ir
-site_author: shaazzz
-site_description: وب‌سایت آزاد المپیاد کامپیوتر
+site_name: vrucs
+site_url: https://vrucs.github.io
+site_author: انجمن علوم کامپیوتر
+site_description: انجمن علوم کامپیوتر دانشگاه ولی‌عصر
 
 copyright: |
   تمامی مطالب این وب‌سایت تحت پروانه
@@ -37,7 +37,7 @@ nav:
   - شازززگاید: https://guide.shaazzz.ir/
   - کتاب گراف: https://gtoi.shaazzz.ir/
   - last-years.md
-  - archive.md
+  - المنت: https://vrucs.github.io/element-web/
 
 extra_css:
   - stylesheets/extra.css
@@ -49,13 +49,13 @@ extra_javascript:
 extra:
   social:
     - icon: material/web
-      link: https://shaazzz.ir
+      link: https://vrucs.github.io
       name: وب‌سایت
     - icon: fontawesome/brands/github
-      link: https://github.com/shaazzz
+      link: https://github.com/vrucs
       name: گیت‌هاب
     - icon: fontawesome/brands/telegram
-      link: https://t.me/shaazzz
+      link: https://t.me/vrucs
       name: تلگرام
 
 plugins:
