@@ -1,0 +1,7 @@
+python-frontmatter
+persiantools
+requests
+beautifulsoup4
+pytz
+mkdocs-material
+
